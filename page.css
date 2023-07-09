@@ -1,0 +1,20 @@
+.rounded-button {
+            border-radius: 20px;
+            background-color: #2FA1E1;
+            border: none;
+            color: #FF5FA4;
+            text-align: center;
+            display: inline-block;
+            font-size: 16px;
+            padding: 10px 24px;
+            cursor: pointer;
+        }
+        body {
+                        background: url(https://api.dujin.org/bing/1366.php) no-repeat center / cover fixed;
+                                }
+                                		nav {
+                                                background-color: #F25D8E;
+                                                        height: 50px;
+                                                                width: 100%;
+                                                                      }
+        }
